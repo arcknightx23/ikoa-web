@@ -158,7 +158,6 @@ random_ua = true
 [proxy]
 ## proxy [socks5://][127.0.0.1:]<1-65535>; 代理
 ## 协议：socks4, socks5, http, https
-## socket = 'socks5://127.0.0.1:9000'
-http://gaoyang19910507@gmail.com:30af8e86-57ef-3ac1-905c-a76c6971a31f@azjp1.blxdns.network:50206
+socket = 'socks5://127.0.0.1:10808'
 ## 设置是否启用代理
-enable = true
+enable = false
